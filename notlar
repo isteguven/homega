@@ -1,0 +1,6 @@
+npm create vite@latest client client dizinini yarattık
+npm i
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm run dev
