@@ -4,3 +4,16 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 npm run dev
+
+githuba ekleme prosedürü:
+ctrl c serverı kapat
+git init
+git add .
+git commit -m "install react js and tailwind css and create the first template" mesaj bu
+git remote add 
+origin https://github.com/isteguven/homega.git
+git branch -M main
+git push -u origin main
+https://github.com/isteguven/homega linki de bu
+
+pages oluşturduk, routları App.jsx de yönlendridik
